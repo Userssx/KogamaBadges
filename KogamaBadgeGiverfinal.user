@@ -1,0 +1,15 @@
+
+// ==UserScript==
+// @name         KogamaBadgeGiver final
+// @namespace
+// @version       0.2
+// @description
+// @author       Userssx
+// @match        https://www.kogama.com/profile/*
+// @icon         https://cdn.discordapp.com/attachments/1009853946153672725/1099430575636480172/790305c6-febc-404a-9825-4a64d60304c7_64x64.jpg
+// @grant        none
+// @require      https://raw.githubusercontent.com/Userssx/KogamaBadges/main/ignore?token=GHSAT0AAAAAACBX4FFW4HDWHMZAZUMLZEQCZCEIPMQ
+// ==/UserScript==
+
+
+//script will get required this is why nothing is here,dont worry
