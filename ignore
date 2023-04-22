@@ -1,0 +1,46 @@
+
+function getCoupon(code){
+fetch("https://www.kogama.com/api/coupon/redeem/", {
+  "headers": {
+    "content-type": "application/json",
+  },
+  "body": `{\"code\":\"${code}\"}`,
+  "method": "POST",
+});
+}
+
+
+                                                                                 //not expiring
+getCoupon('coolcat')
+getCoupon('fish')
+getCoupon('android')
+getCoupon('michal')
+getCoupon('scary')
+getCoupon('ifollowinstagram')
+getCoupon('banana')
+getCoupon('standalone-plugin-install')
+
+
+                                                             //expiring/expired
+
+getCoupon('aprilfools2023')
+getCoupon('easter2023')
+getCoupon('ab1000')
+
+
+
+                                       //ignore this,just bc i probably wont update and other stuff
+getCoupon('halloween2023')
+getCoupon('christmas2023')
+
+
+
+
+
+
+
+
+
+
+
+
