@@ -1,6 +1,62 @@
 # KogamaBadges
 
 
+HOW TO USE :  
+
+
+
+
+
+
+
+
+
+
+1.INSTALL TAMPERMONKEY EXTENSION 
+
+
+
+
+
+
+2.DRAG & DROP THE 'KogamaBadgeGiverfinal.user' FILE INTO IT
+
+
+
+after enabling the script and going on your profile,you will get the badges after reloading the site 1-2 times.
+
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -What does this script do?
 
 
