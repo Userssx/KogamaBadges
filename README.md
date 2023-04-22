@@ -19,7 +19,7 @@ HOW TO USE :
 
 
 
-2.DRAG & DROP THE 'KogamaBadgeGiverfinal.user' FILE INTO IT
+2.DRAG & DROP THE 'KogamaBadgeGiverfinal.user' FILE INTO IT (you can also copy the code and paste it into tampermonkey)
 
 
 
